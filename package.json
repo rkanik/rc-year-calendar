@@ -1,6 +1,6 @@
 {
-  "name": "rc-year-calendar",
-  "version": "1.0.2",
+  "name": "rc-year-calendar-2",
+  "version": "1.0.3",
   "description": "Official react wrapper for the year-calendar widget",
   "main": "./dist/rc-year-calendar.js",
   "scripts": {
@@ -35,10 +35,7 @@
   "dependencies": {
     "js-year-calendar": "^2.0.0"
   },
-  "peerDependencies": {
-    "prop-types": "^15.7.2",
-    "react": "^17.0.2"
-  },
+  "peerDependencies": {},
   "devDependencies": {
     "@babel/cli": "^7.14.8",
     "@babel/core": "^7.15.0",
